@@ -11,7 +11,7 @@ metadata:
 spec:
   to:
     kind: Service
-    name: nginx-lab-student-07
+    name: nginx-lab-mike
   port:
     targetPort: http
   tls:
